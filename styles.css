@@ -21,7 +21,7 @@ img{
 }
 .container{
     background-color: hsl(330, 100%, 98%);
-    width: 600px;
+    width: 300px;
     height: max-content;
     margin: 20px auto;
     padding: 30px;
